@@ -1,0 +1,44 @@
+body{
+	background:linear-gradient(yellow,red, green,blue,pink,gray,orange,black,white);
+}
+#first{
+	background-color: lightblue;
+	height: 400px;
+	width: 400px;
+	/*background-image: url("a.jpg");
+	background-repeat: repeat-y;*/
+	/*border: 2px solid black;
+	border: 2px solid black;
+	
+	border: 2px dotted black;
+	border: 2px dashed black;
+	border: 5px double black;
+	margin: 100px;
+	margin-top:100px;
+	margin-left: 200px;
+	border-radius: 50%;
+	border-radius: 50px 100px 150px 200px;*/
+	border-top-style:dotted ;
+	border-top-color:red;
+	border-bottom-style: solid;
+	border-left-style: dashed;
+	border-right-style: double;
+	margin: 100px 200px 100px 100px;
+	padding: 80px 80px 80px 80px;
+	box-shadow: 50px 50px blue;
+   border-top-left-radius: 50px
+	
+}
+#sec{
+	background-color: black;
+	height: 200px;
+	width: 300px;
+	box-shadow: 50px 50px blue;
+	border-radius: 50%;
+
+}
+h1{
+	text-shadow: 2px 2px red;
+	color:white;
+
+}
